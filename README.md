@@ -1,37 +1,17 @@
-## Technical Skills
+## Fullstack разработчик
 
-### Programming languages and technologies:
-HTML5, CSS3 - кроссбраузерная, нативная вёрстка. Использование Flex, Grid. Emmet.
+Выполнение учебных и личных проектов, в том числе участие в командной работе.
 
-JavaScript ES6 - консольные-браузерные скрипты, парсер, телеграм чат-бот, калькулятор, анимация, работа с DOM, CLI.
-Умение применять модульный подход к JS-коду.
-Python 3 - консольные скрипты, телеграм чат-бот.
-Bash - скрипты по сборке проектов и компиляции, запуск приложений.
+Примеры проектов:
 
-### Frameworks, CMS and Libraries:
-WordPress, Laravel, LiveStreet, Bootstrap.
+- Разработка платформы для изучения иностранного языка: <в ходе выполнения>
+Стек: JavaScript ES6, Vue, HTML5, CSS3, Node.js, MongoDB;
 
-### Database:
-Базовые знания языка SQL, СУБД Postgres;
+- Разработка tutorial для учащихся на курсе по разработке ПО (работа в команде).
+Стек: backend и frontend на Kotlin для разных платформ (Windows, Mac, Linux, Android, web), PostgreSQL, JSON, Javalin, REST API;
 
-### Tools:
-GIT, Webpack, VS Code, Vim, NPM, Figma, Gimp, Terminal, SSH.
-
-### OS:
-Знание Linux на уровне опытного пользователя Linux.
-Manjaro, Arch, Debian, Ubuntu, Mint, Slackware.
-Gnome DE, XFCE4, i3wm.
-
-### Programming practices:
-Чтение документации на английском языке.
-Agile, Scrum, Wateflow, Kanban, Code review.
-Trello, Telegram, Slack, Notice.
-Confluence, Jira.
-Github Pages, Readthedocs, Markdown.
-
-### Study:
-Kotlin, Android, REST API, MVC/MVVM.
-English - (B1).
+- Разработка парсеров сайтов, бота, эффектов анимации.
+Стек: JavaScript ES6, Puppeteer, Node.js, CSV.
 
 <!--
 **hyperhunt/hyperhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
