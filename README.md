@@ -1,12 +1,13 @@
+<!--
 ## Fullstack разработчик
 
-- Разработка платформы для изучения иностранного языка: <в ходе выполнения>  
+- Разработка Browser плагина для изучения иностранного языка: <в ходе выполнения>  
 Стек: JavaScript ES6, Vue, HTML5, CSS3, Node.js, MongoDB;
 
 - Разработка tutorial для учащихся на курсе по разработке ПО (работа в команде).  
-Стек: backend и frontend на Kotlin для разных платформ (Windows, Mac, Linux, Android, web), PostgreSQL, JSON, Javalin, REST API;
+Стек: backend и frontend на Kotlin, PostgreSQL, JSON, Javalin, REST API;
 
-- Разработка парсеров сайтов, бота, эффектов анимации.  
+- Разработка парсеров сайтов, ТГ бота. 
 Стек: JavaScript ES6, Puppeteer, Node.js, CSV.
 
 <!--
