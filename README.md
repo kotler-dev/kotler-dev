@@ -1,14 +1,11 @@
 <!--
-## Fullstack разработчик
+## Kotlin разработчик
 
-- Разработка Browser плагина для изучения иностранного языка: <в ходе выполнения>  
-Стек: JavaScript ES6, Vue, HTML5, CSS3, Node.js, MongoDB;
-
-- Разработка tutorial для учащихся на курсе по разработке ПО (работа в команде).  
+- Разработка TodoApp - Мультиплатформенное Kotlin-приложение с сервером, клиентом под Android (Jetpack Compose) и клиентом под Desktop (JetBrains Compose). 
 Стек: backend и frontend на Kotlin, PostgreSQL, JSON, Javalin, REST API;
 
-- Разработка парсеров сайтов, ТГ бота. 
-Стек: JavaScript ES6, Puppeteer, Node.js, CSV.
+- Разработка Browser плагина, парсера сайтов, ТГ бота для изучения иностранного языка: <в ходе выполнения>  
+Стек: JavaScript ES6, Vue, HTML5, CSS3, Node.js, MongoDB, Puppeteer, CSV.
 
 <!--
 **hyperhunt/hyperhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
