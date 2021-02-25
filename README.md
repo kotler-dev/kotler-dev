@@ -7,6 +7,8 @@
 - Разработка Browser плагина, парсера сайтов, ТГ бота для изучения иностранного языка: <в ходе выполнения>  
 Стек: JavaScript ES6, Vue, HTML5, CSS3, Node.js, MongoDB, Puppeteer, CSV.
 
+HyperSkill: https://hyperskill.org/profile/17398830
+
 <!--
 **hyperhunt/hyperhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
