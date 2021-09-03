@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Kotlin for Android development.
+- 📫 You can reach me at [Telegram](https://t.me/hyperhunt).
+
+<!--
 - 🌱 I’m currently learning Kotlin for Android development, GTK 4 with Vala and Python.
 - 👯 I’m looking to collaborate on [GTK 4 Developer Guide](https://github.com/hyperhunt/gtk-developer-guide).
 - 💬 Ask me about GTK with Vala or Python, Arch Linux or Fedora with Gnome DE.
 - 📫 You can reach me at [Telegram](https://t.me/hyperhunt), or by [e-mail](mailto:tony@hyperhunt.dev).
 
-<!--
 Kotlin and OSS enthusiast.
 
 ## Kotlin разработчик
