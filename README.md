@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin for Android development.
 - 📫 You can reach me at [Telegram](https://t.me/hyperhunt).
 
 <!--
