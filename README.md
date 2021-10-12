@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 You can reach me at [Telegram](https://t.me/hyperhunt).
+- 📫 You can reach me at [Telegram](https://t.me/kotlerdev).
 
 <!--
 - 🌱 I’m currently learning Kotlin for Android development, GTK 4 with Vala and Python.
