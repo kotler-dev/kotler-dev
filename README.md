@@ -29,15 +29,4 @@ developer {
 }
 ```
 
-## 🛠 **What I Do**
-- 🔧 **Build developer tools** that automate complex processes
-- 🤖 **Integrate AI** into testing and diagnostics workflows
-- 🚀 **Create end-to-end solutions** from concept to production
-- 📊 **Specialize in JVM ecosystem** and automation systems
-
 Let's build something great together!
-
-![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
-![Java](https://img.shields.io/badge/Java-Expert-red)
-![AI](https://img.shields.io/badge/AI--Tools-Specialist-green)
-![Tools](https://img.shields.io/badge/Developer--Tools-Focused-blue)
